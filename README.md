@@ -48,7 +48,7 @@ I would recommend to run the script daily as a cronjob, eg. at 4:00 AM.
     --place <directory>, -p <directory>
 		Set the folder the files shall be downloaded to
 	--date <date>, -d <date>
-		Set the date of the issue you want to download. Must be in [ISO 8601 Format](https://xkcd.com/1179/).
+		Set the date of the issue you want to download. Must be in <a href="https://xkcd.com/1179/">ISO 8601 Format</a>.
 </pre>
 
 #### License:
